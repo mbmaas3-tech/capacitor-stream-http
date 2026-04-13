@@ -6,6 +6,7 @@
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "unpkg": "dist/plugin.js",
+  "browser": "dist/plugin.js",
   "exports": {
     ".": {
       "import": "./dist/esm/index.js",
@@ -29,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatbox/capacitor-stream-http.git"
+    "url": "git+https://github.com/chatboxai/capacitor-stream-http.git"
   },
   "bugs": {
     "url": "https://github.com/chatbox/capacitor-stream-http/issues"
