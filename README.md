@@ -1,4 +1,6 @@
-# capacitor-stream-http
+# capacitor-stream-http-v2
+
+Package updated for Capacitor 8. This is only a updated fork of https://github.com/chatboxai/capacitor-stream-http
 
 Capacitor plugin for native HTTP streaming support on iOS and Android. This plugin enables true streaming of HTTP responses, particularly useful for Server-Sent Events (SSE) and other streaming APIs.
 
@@ -14,7 +16,7 @@ Capacitor plugin for native HTTP streaming support on iOS and Android. This plug
 ## Install
 
 ```bash
-npm install capacitor-stream-http
+npm install capacitor-stream-http-v2
 npx cap sync
 ```
 
