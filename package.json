@@ -1,6 +1,6 @@
 {
   "name": "capacitor-stream-http-v2",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Capacitor plugin for native HTTP streaming",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
