@@ -25,7 +25,7 @@ npx cap sync
 ### Basic Usage
 
 ```typescript
-import { StreamHttp } from 'capacitor-stream-http';
+import { StreamHttp } from 'capacitor-stream-http-v2';
 
 // Listen for chunks
 await StreamHttp.addListener('chunk', (data) => {
@@ -60,7 +60,7 @@ await StreamHttp.cancelStream({ id });
 ### Using with ReadableStream API
 
 ```typescript
-import { createNativeReadableStream } from 'capacitor-stream-http';
+import { createNativeReadableStream } from 'capacitor-stream-http-v2';
 
 const stream = createNativeReadableStream({
   url: 'https://api.example.com/stream',
