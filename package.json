@@ -31,10 +31,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatboxai/capacitor-stream-http.git"
+    "url": "git+https://github.com/mbmaas3-tech/capacitor-stream-http-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/chatbox/capacitor-stream-http/issues"
+    "url": "https://github.com/mbmaas3-tech/capacitor-stream-http-v2/issues"
   },
   "keywords": [
     "capacitor",
